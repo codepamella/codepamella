@@ -1,4 +1,5 @@
-### Hello, I'm Pâmella !!
+# Hi, I'm Pamella!
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/paregina?cursus=Basecamp)](https://www.42sp.org.br/)
 
 <!--
 **codepamella/codepamella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
